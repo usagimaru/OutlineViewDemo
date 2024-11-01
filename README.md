@@ -1,2 +1,2 @@
 # OutlineViewDemo
-NSOutlineView demo code
+NSOutlineView何もわからんのデモです。
